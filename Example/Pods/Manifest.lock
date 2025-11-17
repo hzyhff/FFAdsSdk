@@ -1,0 +1,16 @@
+PODS:
+  - FFAdsSdk (0.1.0)
+
+DEPENDENCIES:
+  - FFAdsSdk (from `../`)
+
+EXTERNAL SOURCES:
+  FFAdsSdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFAdsSdk: 120c737b88e6529d0ab500c5797e9785d4e0eb05
+
+PODFILE CHECKSUM: 5b2d0a185c47f6d4baf5304f8676f50db07dfe0d
+
+COCOAPODS: 1.16.2

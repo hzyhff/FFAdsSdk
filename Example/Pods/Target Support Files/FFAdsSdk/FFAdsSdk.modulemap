@@ -1,0 +1,6 @@
+framework module FFAdsSdk {
+  umbrella header "FFAdsSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

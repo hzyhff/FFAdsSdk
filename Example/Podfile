@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'FFAdsSdk_Example' do
+  pod 'FFAdsSdk', :path => '../'
+
+  target 'FFAdsSdk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
